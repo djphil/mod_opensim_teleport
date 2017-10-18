@@ -28,6 +28,7 @@ defined('_JEXEC') or die('Direct Access to this location is not allowed.');
         </a>
     </div>
     <?php endif; ?>
+
     <?php if ($params->get('tphgv3')): ?>
     <div class="tphgv3">
         <?php $url = getTeleportUrl(2, $params->get('hgdomainname'), $params->get('hgdomainport'), $params->get('hgregionname'), 0); ?>

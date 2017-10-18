@@ -129,7 +129,7 @@
                     description="MOD_OPENSIM_TELEPORT_FIELD_TPICONTEXT_TEXT_DESC" />
             </fieldset>
 
-			<fieldset name="MOD_OPENSIM_TELEPORT_CONFIGURATION">
+            <fieldset name="MOD_OPENSIM_TELEPORT_CONFIGURATION">
                 <field 
                     name="spacer" 
                     type="note" 
